@@ -21,7 +21,7 @@
     "URL":"siomsu@nic.in",
     "JSON":"https://raw.githubusercontent.com/HitenChawda47/host/master/nic.json",
     "SHA256":"4cb6c4098659a3d600289646619fe32ae1220c6323b03617575585d95ed9873f",
-    "CreatedOn":"2025-01-01",
+    "CreatedOn":"2026-01-01",
     "Authentication":"No",
     "SamparkType":"L"
   },
@@ -34,7 +34,7 @@
     "URL":"support-mahapar@nic.in",
     "JSON":"https://raw.githubusercontent.com/HitenChawda47/host/master/mahapar.json",
     "SHA256":"019445b74886615e24557405005e486ecf5fc163908e608461824884a5b9217c",
-    "CreatedOn":"2025-01-01",
+    "CreatedOn":"2026-01-01",
     "Authentication":"No",
     "SamparkType":"L"
   },
@@ -47,7 +47,7 @@
     "URL":"siomsu@nic.in",
     "JSON":"https://raw.githubusercontent.com/HitenChawda47/host/master/mhpis.json",
     "SHA256":"a8665d4489936e42b9b818169ffc16ebcf06e0501992b182ccc92f7507a24847",
-    "CreatedOn":"2025-01-01",
+    "CreatedOn":"2026-01-01",
     "Authentication":"No",
     "SamparkType":"L"
   },
@@ -60,7 +60,7 @@
     "URL":"https://mahaias.maharashtra.gov.in",
     "JSON":"https://raw.githubusercontent.com/HitenChawda47/host/master/mobilenoticelist.json",
     "SHA256":"a8665d4489936e42b9b818169ffc16ebcf06e0501992b182ccc92f7507a24847",
-    "CreatedOn":"2025-01-01",
+    "CreatedOn":"2026-01-01",
     "Authentication":"No",
     "SamparkType":"N"
   }
