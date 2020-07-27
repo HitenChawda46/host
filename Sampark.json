@@ -1,6 +1,6 @@
 [
   {
-    "NameOfList":"Test:IAS MH Photo List",
+    "NameOfList":"Test: IAS MH Photo List",
     "NameOfList-MA":"भाप्रसे महा",
     "Title":"IAS Officer Photo MH",
     "Title-MA":"भा.प्र.से. Photo महाराष्ट्र",
@@ -13,7 +13,7 @@
     "SamparkType":"L"
   },  	
   {
-    "NameOfList":"Sample : NIC MH Officers",
+    "NameOfList":"Test: NIC MH Officers",
     "NameOfList-MA":"रासूविके महा",
     "Title":"NIC MH Officers and Staff",
     "Title-MA":"रा.सू-वि.के महाराष्ट्र",
@@ -26,7 +26,7 @@
     "SamparkType":"L"
   },
   {
-    "NameOfList":"MAHAPAR EMD",
+    "NameOfList":"Test: MAHAPAR EMD",
     "NameOfList-MA":"MH EMD MA",
     "Title":"MH EMD Title",
     "Title-MA":"महापार ई एम डी",
@@ -39,7 +39,7 @@
     "SamparkType":"L"
   },
   {
-    "NameOfList":"Test MH-PIS",
+    "NameOfList":"Test: MH-PIS",
     "NameOfList-MA":"महा अधिकारी",
     "Title":"Maharashtra Officers",
     "Title-MA":"महाराष्ट्र अधिकारी",
@@ -52,7 +52,7 @@
     "SamparkType":"L"
   },
   {
-    "NameOfList":"Test IAS-Notices",
+    "NameOfList":"Test: IAS-Notices",
     "NameOfList-MA":"नोटीस MH",
     "Title":"IAS (MH) Recent notices ",
     "Title-MA":"नोटीस MH",
